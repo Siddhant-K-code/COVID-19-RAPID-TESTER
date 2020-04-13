@@ -27,3 +27,10 @@ India is a highly populated country and hence it is not possible to check everyo
 
 
 Dataset Source: https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images 
+
+
+## Instructions to run this Model on your local machine : 
+* Simply , make sure you have python and Jupyter notebook installed on your local machine and the datasets which i provided. 
+* Start kernel in your workspace folder and open covid19-detect-using-deep-learning.ipynb 
+and inside it give proper path to the datasets folder where you save the datasets. 
+* Then run all the cells, you will get all the output results at the end.

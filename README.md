@@ -17,7 +17,7 @@ India is a highly populated country and hence it is not possible to check everyo
 
 * We simply don’t have enough (reliable) data to train a COVID-19 detector.
 * I am not a trained medical expert. It can improved by more medical expert's guidance.
-* future (and better) COVID-19 detectors will be multi-modal 
+* COVID-19 detectors will be multi-modal 
   - Right now i am using only image data (i.e., X-rays) — better automatic    COVID-19 detectors should leverage multiple data sources  not limited to just images, including patient vitals, population density, geographical location, etc. Image data by itself is typically not sufficient for these types of applications.
 
 

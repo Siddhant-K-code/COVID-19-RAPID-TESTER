@@ -1,3 +1,5 @@
+![COVID-19-RAPID-TESTER](https://socialify.git.ci/Siddhant-K-code/COVID-19-RAPID-TESTER/image?forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+
 # COVID-19-RAPID-TESTER
 
 
